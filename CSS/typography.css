@@ -1,0 +1,10 @@
+#test1 {
+    background-color: rgb(20, 220, 50);
+    color: #FF3000;
+    font-style: oblique;
+}
+
+#test2 {
+    background-color: rgb(0, 120, 30);
+    font-style: italic;
+}
