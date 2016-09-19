@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://practice-pixels.s3.amazonaws.com/texture-paper.jpg');
+    font-size: 62.5%
+}
+
+#wrapper {
+    width:600px;
+    margin:auto; /* Centers the div on the page */
+    border:1px solid tan;
+    padding:25px;
+}
+
+h1 {
+    color: #2a4231;
+}
+
+h2 {
+    color: #4a7958;
+}
+
+h1, h2 {
+    font-family: Tahoma, sans-serif;
+}
+
+p {
+    line-height: 1.5;
+}
+
+ul, p {
+    font-family: "Palatino Linotype", serif;
+}
+
+.primary {
+    font-weight: bold;
+}
+
+.quick_facts {
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.characters {
+    font-style: oblique;
+}
