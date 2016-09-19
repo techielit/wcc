@@ -9,6 +9,7 @@ body {
     color: #FF3000;
     font-style: oblique;
     font-size: 1rem;
+    text-transform: uppercase;
 }
 
 #test2 {
