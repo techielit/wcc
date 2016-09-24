@@ -1,0 +1,75 @@
+body {
+    background-image: url("http://practice-pixels.s3.amazonaws.com/texture-blue.jpg");
+    font-size: 62.5%; /* Will make the default browser size 10px */
+    font-family: Georgia, serif;
+}
+
+#wrapper {
+    width: 800px;
+    margin: 58px auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+header, footer {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+footer {
+    font-size: 1rem;
+}
+#bookpic {
+    width: 75px;
+    margin: 10px auto 0px auto;
+}
+
+
+h1 {
+    color: #D42A1D; /* Rust Orange */
+    font-size: 2rem;
+    line-height: 0.1rem;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 1.2rem;
+    line-height: .9rem;
+}
+
+header h2 {
+    line-height: 1.0rem;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+    font-style: oblique;
+    line-height: 0rem;
+}
+
+a {
+    color: black;
+}
+
+section a {
+    color: #D42A1D; /* Rust Orange */
+}
+
+section a:hover {
+    color: #185A96; /* Denim Blue */
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+section {
+    background-color: #EEEEEE; /* Light grey */
+    padding-top: 1px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 1px;
+    margin: 23px 30px 20px 30px;
+}
